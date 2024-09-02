@@ -30,6 +30,11 @@ The Handwriting Character Recognition System is a Python-based GUI application t
 - **Text Translation**: Translate the recognized text into Hindi with ease.
 - **User-Friendly Interface**: The application features a clean and intuitive interface built using Tkinter.
 
+## 📚 Dataset
+
+You can use the [IAM Handwritten Forms Writer Identifier Dataset](https://www.kaggle.com/code/naderabdalghani/iam-handwritten-forms-writer-identifier/input) from Kaggle for training and testing the recognition model.
+
+
 ## 🚀 How to Use
 
 1. **Clone the Repository**:
