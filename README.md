@@ -21,7 +21,7 @@ The Handwriting Character Recognition System is a Python-based GUI application t
 
 ## 🎥 Demo
 
-![Demo](https://github.com/yashkarkhanis01/Handwriting-character-recognition/blob/main/Screenshot/output.gif)
+![Demo](https://github.com/yashkarkhanis01/Handwriting-character-recognition/blob/main/Screenshot/Output.gif)
 
 ## 📋 Features
 
